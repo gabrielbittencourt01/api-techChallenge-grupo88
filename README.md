@@ -159,9 +159,9 @@ Podera acessa-la através deste link: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c
 
 
 ## 🔗Links Importantes
-- [Documentação da API](https://flask.palletsprojects.com/)
-- [Vídeo Explicativo do Youtube](https://requests.readthedocs.io/)
-- [Site da Embrapa](https://www.crummy.com/software/BeautifulSoup/)
+- [Documentação da API](https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngrok-free.app/apidocs)
+- [Vídeo Explicativo](https://drive.google.com/file/d/1CGfAraqY8SARzgxPwB2x16R6m17z_Pv/view?usp=sharing)
+- [Site da Embrapa](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01) 
 
 ## 👥 Membros do Grupo
 - Gabriel Tenorio Bittencourt

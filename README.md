@@ -7,7 +7,9 @@ Algumas categorias possuem subcategorias próprias, como por exemplo em processa
 
 ## ➡️Plano de Deploy
 Utilizamos o Ngrok para fazer o deploy e disponibilizar a Aplicação na web. 
-Podera acessa-la através deste link: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngrok-free.app/
+Podera acessa-la através deste link: https://3cc2-2804-7f0-a218-8bb-4113-202f-7f92-665.ngrok-free.app 
+
+Este link foi desativado: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngrok-free.app/ (LINK QUE ESTÁ NO PDF ENVIADO)
 
 ## 💻Tecnologias Usadas
 - **Python**: Linguagem principal do projeto

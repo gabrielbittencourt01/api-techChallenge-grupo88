@@ -7,7 +7,7 @@ Algumas categorias possuem subcategorias próprias, como por exemplo em processa
 
 ## ➡️Plano de Deploy
 Utilizamos o Ngrok para fazer o deploy e disponibilizar a Aplicação na web. 
-Podera acessa-la através deste link: https://3cc2-2804-7f0-a218-8bb-4113-202f-7f92-665.ngrok-free.app 
+Podera acessa-la através deste link: https://ede3-177-161-132-249.ngrok-free.app
 
 Este link foi desativado: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngrok-free.app/ (LINK QUE ESTÁ NO PDF ENVIADO)
 
@@ -65,7 +65,7 @@ Este link foi desativado: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngr
 
 4. **Acessar Rotas da API**:
    - Navegue até [http://localhost:5000](http://localhost:5000) para a página inicial.
-   - E/ou acesse ao link publico: https://0d13-2804-7f0-a218-8bb-8d3f-5eea-c4e8-27b7.ngrok-free.app/
+   - E/ou acesse ao link publico: https://ede3-177-161-132-249.ngrok-free.app
    - Para ter acesso a API será necessário passar por um login. 
         Usuário: usuarioteste
         Senha: 1234
